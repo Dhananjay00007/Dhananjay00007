@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Dhananjay Yadav
 🎓 MSc in Business Analytics | 📊 Data Analyst | 📍 Based in London | 🛠️ Right to work in the UK
 
-I turn messy operational data into decision-ready dashboards that cut reporting time by 80 %.
+I turn messy operational data into decision-ready dashboards that cut reporting time by 80%.
 
 ---
 
