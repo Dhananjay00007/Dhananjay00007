@@ -1,4 +1,5 @@
 # 👋 Hey, I’m Dhananjay Yadav
+I turn messy operational data into dashboards that cut costs and boost revenue
 
 🎓 MSc in Business Analytics | 📊 Data Analyst | 📍 Based in London | 🛠️ Right to work in the UK
 
