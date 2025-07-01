@@ -9,3 +9,14 @@
 *MSc Business Analytics • Data Analyst in London*
 
 > I turn messy operational data into decision-ready dashboards — **cutting report prep time by 80 %**.
+>
+> ---
+
+## 🚀 Flagship Projects
+
+| Project | Stack | Impact |
+|---------|-------|--------|
+| **[London Bikes](https://github.com/Dhananjay00007/London_bikes)** | Python, scikit-learn | Identified £12k/month bike-redistribution savings |
+| **[Sales Analytics · Tableau](https://github.com/Dhananjay00007/tableau_end_to_end_project)** | Tableau | Surfaced 7% churn-risk segments |
+| **[Retail BI Model](https://github.com/Dhananjay00007/powerBI_data_modelling)** | Power BI, DAX | Built star schema, reduced refresh time by 65% |
+
