@@ -24,5 +24,13 @@ I'm a data-driven problem solver with a Master's in Business Analytics from the 
 ## 📫 Let’s Connect
 LinkedIn: www.linkedin.com/in/dhananjayyadav0727
 📧 dhananjayyadav0727@gmail.com  
-🌐 [Portfolio site coming soon...]
+
+## 📁 Featured Projects
+
+- 🚲 **London Bikes** – Python EDA & KMeans clustering; reduced redistribution costs by £12k/month
+- ✈️ **Tableau Churn Analysis** – Tableau dashboard; 9% ARR uplift
+- ☕ **Excel Coffee Sales** – Pivot dashboard; identified £22k loss-leader SKU
+- 🧮 **Power Pivot Analysis** – DAX scenario modeling
+- 🧹 **Power Query ETL** – Cleaned and shaped raw sales data
+
 
